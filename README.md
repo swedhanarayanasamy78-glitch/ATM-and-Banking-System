@@ -141,7 +141,4 @@ Thus the project to develop ATM and Banking system was developed using Star UML 
 
 
 
-# RESULT
-
-Thus the project to develop ATM and Banking system was developed using Star UML Software is done successfully.
 
